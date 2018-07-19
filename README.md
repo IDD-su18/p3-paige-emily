@@ -42,7 +42,9 @@ We have been testing with both a 3d printed bone and pig femur. We'll be getting
 Implementation Video: https://youtu.be/0C5WVhAsVF4
 
 ## Reflection
-During this assignment, we learned that OpenSCAD files are tough to work with, pre-soldered wires never last, and carrying a pig femur around daily is not fun.  
+During this assignment, we learned that OpenSCAD files are tough to work with, pre-soldered wires never last, and carrying a pig femur around daily is not fun. 
+
+In our next iterations, we will be testing our device on a fractured animal bone, designing an enclosure to fit over a stethoscope, and implementing an interactive GUI. 
 
 ## Presentation 
 https://docs.google.com/presentation/d/1myo9QGSspp70GDENwiBE1i4PZWlbu830GBA4aXYuocU/edit?usp=sharing
