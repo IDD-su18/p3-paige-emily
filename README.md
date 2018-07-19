@@ -34,7 +34,10 @@ Doctors expressed the need for the device to be portable, easy to move precisely
 ![alt text](/images/physical_enclosure.png)
 
 ## Implementation Prototype
-![Implementation prototype](/images/implementation_prototype.png)
+We have been testing with both a 3d printed bone and pig femur. We'll be getting additional bones soon, so we can begin to compare scans between a fractured and non-fractured bone. 
+![3d printed bone](/images/3d_printed_bone.jpg)
+![Pig femur in gel recipe](/images/pig_femur.jpg)
+![Implementation prototype](/images/implementation_prototype.jpg)
 
 Implementation Video: https://youtu.be/0C5WVhAsVF4
 
